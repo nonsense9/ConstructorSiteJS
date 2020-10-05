@@ -1,9 +1,7 @@
 import image from './assets/image.png'
 import {TextBlock, TitleBlock, ColumnsBlock, ImageBlock} from './classes/blocks'
 
-// const text = `
-// Крутые видео и уроки по JavaScript тут: <a href="https://youtube.com/c/VladilenMinin" target="_blank">Владилен Минин</a>. Тут ты найдешь исчерпывающую информацию по любым аспектам языка, любым фреймворкам, такие как: React, Vue, Angular, Node, Svelte, Express, Next, Nuxt и многое другое. Присоединяйся!
-// `
+
 const text = ''
 
 
